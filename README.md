@@ -28,7 +28,7 @@ Make sure you have already installed:
   <summary>File</summary>
   <p>File for transfer</p>
   
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&rarr;&nbsp;[contoh.txt](https://github.com/naufalhilmiaji/basic-ftp/blob/master/contoh.txt>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&rarr;&nbsp;[contoh.txt](https://github.com/naufalhilmiaji/basic-ftp/blob/master/contoh.txt)
 </details>
 
 ### Author
