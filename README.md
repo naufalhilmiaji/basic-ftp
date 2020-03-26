@@ -22,6 +22,12 @@ Python 3.6+
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&rarr;&nbsp;[Server.ipynb](https://github.com/naufalhilmiaji/basic-ftp/blob/master/Server.ipynb)
 </details>
 
+<details>
+  <summary>File</summary>
+  <p>File for transfer</p>
+  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&rarr;&nbsp;[contoh.txt](https://github.com/naufalhilmiaji/basic-ftp/blob/master/contoh.txt>
+
 ### Author
 #### _Naufal Hilmiaji_
 * [Linkedin](https://www.linkedin.com/in/naufalhilmiaji/)
