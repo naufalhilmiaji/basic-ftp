@@ -27,6 +27,7 @@ Python 3.6+
   <p>File for transfer</p>
   
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&rarr;&nbsp;[contoh.txt](https://github.com/naufalhilmiaji/basic-ftp/blob/master/contoh.txt>
+</details>
 
 ### Author
 #### _Naufal Hilmiaji_
